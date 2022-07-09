@@ -4,11 +4,11 @@
 # Project-2 Machine Learning
 ---
 ### Table of Contents
-- [Group Members](###Group-Members)
-- [Introduction](###Introduction)
-    * [Why Use Machine Learning For Trading?](####Why-Use-Machine-Learning-For-Trading?)
-    * [Our Goal](#####Our-Goal)
-    * [The Process](#####The-Process)
+- [Group Members](#Group-Members)
+- [Introduction](#Introduction)
+    * [Why Use Machine Learning For Trading?](#Why-Use-Machine-Learning-For-Trading?)
+    * [Our Goal](#Our-Goal)
+    * [The Process](#The-Process)
 * Requirements
 #
 ---

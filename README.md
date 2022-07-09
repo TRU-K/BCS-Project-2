@@ -18,9 +18,9 @@
    * [Things We Could Improve on Given Time](#Things-We-Could-Improve-on-Given-Time)
 ---
 ### Group Members
- - Kurt Cullerton (@TRU-K)
- - Anita Januszek (@Mleczkow71)
- - Matthew Lewis (@ML789)
+ - Kurt Cullerton - @TRU-K
+ - Anita Januszek - @Mleczkow71
+ - Matthew Lewis - @ML789
 
 ---
 

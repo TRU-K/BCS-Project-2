@@ -72,11 +72,11 @@ To use this Project you will need to access the 'internal_metrics_pulling.ipynb'
 ### Results 
 - EMA provided better returns vs. comparable classifiers models, particularly Naive Bayes
 ![Return](https://user-images.githubusercontent.com/101629699/178720888-69370567-40cf-4855-8427-a4a1285f09a3.png)
-![Random Forest vs Naive Bayes](https://user-images.githubusercontent.com/101629699/178721232-2533883d-93cb-4e5c-9cc9-32b18bd8d12a.png)
+![Random Forest vs Naive Bayes](https://raw.githubusercontent.com/TRU-K/Project-2/main/Images/Updated_results_graph.png)
 ![balanced accuracy score](https://user-images.githubusercontent.com/101629699/178723281-15b31a2b-8cac-4e73-a957-143d13844226.png)
 
-![Bollinger Bands Outputs](https://user-images.githubusercontent.com/101629699/178721808-2917b2a2-3e9b-490c-a816-90efd45e6cdf.PNG)
-![EMA Outputs](https://user-images.githubusercontent.com/101629699/178722062-5441fc0d-b2c4-4d92-9e1f-ac1a996a741c.PNG)
+![Bollinger Bands Outputs](https://raw.githubusercontent.com/TRU-K/Project-2/main/Images/Updated_BB_df.png)
+![EMA Outputs](https://raw.githubusercontent.com/TRU-K/Project-2/main/Images/Updated_EMA_df.png)
 
 ### Conclusion
 ##### How Well Did The Model Perform?

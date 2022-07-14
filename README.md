@@ -3,7 +3,8 @@
 # Project-2 Machine Learning
 
 ---
-
+## ALGO TRADING PROJECT
+![Heading](https://user-images.githubusercontent.com/101629699/178955542-78f4b763-140f-4d06-b07b-a26e7bac8d18.PNG)
 ### Table of Contents
 - [Group Members](#Group-Members)
 - [Introduction](#Introduction)
@@ -30,7 +31,7 @@ By developing a strong and accurate Machine Learning model, it can assist in mak
 ##### Our Goal
 To begin this project we established a goal of creating a sophisticated Machine Learning model that gives accurate and profitable trading signals. Using this Data we aimed to determine which sectors in he US stock market are the most profitable during the current economic downturn, hence provide a hedge against infaltionary / volatile condistion. 
 ##### The Process
-![Flow chart](https://raw.githubusercontent.com/TRU-K/Project-2/main/Images/Updated_Flow_chart.png)
+! (!![Flow chart](https://user-images.githubusercontent.com/101629699/178720451-472364e9-1e5a-4a09-a519-14e9ee3b6c5c.png))
 After deciding on our goal for this project we:
  - Collected all required data using yfinance api. We collected data on the 25 US market sector ETF's.
  - Created a target datset that consisted of a 'Signal', buy or sell. We have experimented with various modles, focusing on Bollinger bands and EMA. In the end EMA produced more accurate results, hence for the futher modelling we used EMA. 
@@ -91,5 +92,15 @@ SWOT analysis illutrates the final conclussions.
 ##### Things We Could Improve on Given Time
 1. Create a more streamlined approach as to how our code works by creating a single .ipynb that will run through all of our seperate code and give outputs accordingly
 2. Given time we could look at implementing an automated trading bot based on our machine learning models. This could have been accomplished by creating an SQL database that can be fed real time data and indicators on given data when the trader would like to run their bot. Which from this database feeds a machine learning model to give a signal to, buy sell or hold, based on the most recently given data.
+
+#### Dashboard 
+For easy result references
+![Dashboard](https://user-images.githubusercontent.com/101629699/178955890-327e94a5-da16-44a5-b6ec-3ebfbb97b2e9.PNG)
+
+### Prediction capabilities
+- we have explore predictive appliction of the simulation s/ models used. 
+One option is applying time series , second an example below: 
+This is a code that predicts next day price , hence future buy / sell signals. 
+![Predictions_Code](https://user-images.githubusercontent.com/101629699/178956333-7cd55ea0-cbd8-43af-9958-b3ac81e07c76.PNG)
 
 ---

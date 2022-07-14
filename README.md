@@ -30,7 +30,7 @@ By developing a strong and accurate Machine Learning model, it can assist in mak
 ##### Our Goal
 To begin this project we established a goal of creating a sophisticated Machine Learning model that gives accurate and profitable trading signals. Using this Data we aimed to determine which sectors in he US stock market are the most profitable during the current economic downturn, hence provide a hedge against infaltionary / volatile condistion. 
 ##### The Process
-(![Flow chart](https://raw.githubusercontent.com/TRU-K/Project-2/main/Images/Updated_Flow_chart.png))
+![Flow chart](https://raw.githubusercontent.com/TRU-K/Project-2/main/Images/Updated_Flow_chart.png)
 After deciding on our goal for this project we:
  - Collected all required data using yfinance api. We collected data on the 25 US market sector ETF's.
  - Created a target datset that consisted of a 'Signal', buy or sell. We have experimented with various modles, focusing on Bollinger bands and EMA. In the end EMA produced more accurate results, hence for the futher modelling we used EMA. 
